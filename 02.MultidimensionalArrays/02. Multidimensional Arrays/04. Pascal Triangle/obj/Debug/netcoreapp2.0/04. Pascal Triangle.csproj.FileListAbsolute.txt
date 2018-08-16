@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp2.0\04. Pascal Triangle.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp2.0\04. Pascal Triangle.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp2.0\04. Pascal Triangle.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp2.0\04. Pascal Triangle.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\bin\Debug\netcoreapp2.0\04. Pascal Triangle.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\04. Pascal Triangle\obj\Debug\netcoreapp2.0\04. Pascal Triangle.pdb

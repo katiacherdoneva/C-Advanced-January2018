@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.deps.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.runtimeconfig.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\bin\Debug\netcoreapp2.0\04. Basic Queue Operations.pdb
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\04. Basic Queue Operations\obj\Debug\netcoreapp2.0\04. Basic Queue Operations.pdb

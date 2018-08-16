@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.deps.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb

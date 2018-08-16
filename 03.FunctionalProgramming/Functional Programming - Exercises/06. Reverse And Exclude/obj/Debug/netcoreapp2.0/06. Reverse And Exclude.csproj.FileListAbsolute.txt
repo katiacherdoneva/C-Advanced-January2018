@@ -1,0 +1,10 @@
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.deps.json
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.json
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.runtimeconfig.dev.json
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.AssemblyInfo.cs
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.dll
+c:\users\катя\source\repos\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.0\06. Reverse And Exclude.pdb

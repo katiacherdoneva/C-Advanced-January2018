@@ -1,0 +1,9 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\bin\Debug\netcoreapp2.0\02. Diagonal Difference.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\bin\Debug\netcoreapp2.0\02. Diagonal Difference.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\bin\Debug\netcoreapp2.0\02. Diagonal Difference.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\bin\Debug\netcoreapp2.0\02. Diagonal Difference.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\obj\Debug\netcoreapp2.0\02. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\obj\Debug\netcoreapp2.0\02. Diagonal Difference.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\obj\Debug\netcoreapp2.0\02. Diagonal Difference.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\obj\Debug\netcoreapp2.0\02. Diagonal Difference.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\02. Diagonal Difference\obj\Debug\netcoreapp2.0\02. Diagonal Difference.pdb

@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp2.0\03. Group Numbers.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp2.0\03. Group Numbers.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp2.0\03. Group Numbers.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp2.0\03. Group Numbers.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\bin\Debug\netcoreapp2.0\03. Group Numbers.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\03. Group Numbers\obj\Debug\netcoreapp2.0\03. Group Numbers.pdb

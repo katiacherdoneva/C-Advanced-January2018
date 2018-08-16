@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\bin\Debug\netcoreapp2.0\04. Matching Brackets.deps.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\bin\Debug\netcoreapp2.0\04. Matching Brackets.runtimeconfig.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\bin\Debug\netcoreapp2.0\04. Matching Brackets.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\bin\Debug\netcoreapp2.0\04. Matching Brackets.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\bin\Debug\netcoreapp2.0\04. Matching Brackets.pdb
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues\04. Matching Brackets\obj\Debug\netcoreapp2.0\04. Matching Brackets.pdb

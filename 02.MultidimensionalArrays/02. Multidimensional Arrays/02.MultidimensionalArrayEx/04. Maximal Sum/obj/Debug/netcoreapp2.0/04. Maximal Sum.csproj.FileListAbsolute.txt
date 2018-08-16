@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\bin\Debug\netcoreapp2.0\04. Maximal Sum.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\bin\Debug\netcoreapp2.0\04. Maximal Sum.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\bin\Debug\netcoreapp2.0\04. Maximal Sum.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\bin\Debug\netcoreapp2.0\04. Maximal Sum.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\bin\Debug\netcoreapp2.0\04. Maximal Sum.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\04. Maximal Sum\obj\Debug\netcoreapp2.0\04. Maximal Sum.pdb

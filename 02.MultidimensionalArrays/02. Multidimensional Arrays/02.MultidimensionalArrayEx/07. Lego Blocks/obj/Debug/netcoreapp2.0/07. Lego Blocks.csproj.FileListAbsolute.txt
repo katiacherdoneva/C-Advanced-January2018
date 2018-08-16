@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\bin\Debug\netcoreapp2.0\07. Lego Blocks.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\bin\Debug\netcoreapp2.0\07. Lego Blocks.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\bin\Debug\netcoreapp2.0\07. Lego Blocks.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\bin\Debug\netcoreapp2.0\07. Lego Blocks.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\bin\Debug\netcoreapp2.0\07. Lego Blocks.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\07. Lego Blocks\obj\Debug\netcoreapp2.0\07. Lego Blocks.pdb

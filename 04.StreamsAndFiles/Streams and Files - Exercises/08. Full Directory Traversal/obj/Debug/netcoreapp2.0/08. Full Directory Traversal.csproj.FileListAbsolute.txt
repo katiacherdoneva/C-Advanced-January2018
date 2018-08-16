@@ -1,0 +1,10 @@
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\bin\Debug\netcoreapp2.0\08. Full Directory Traversal.deps.json
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\bin\Debug\netcoreapp2.0\08. Full Directory Traversal.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\bin\Debug\netcoreapp2.0\08. Full Directory Traversal.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\bin\Debug\netcoreapp2.0\08. Full Directory Traversal.dll
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\bin\Debug\netcoreapp2.0\08. Full Directory Traversal.pdb
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\obj\Debug\netcoreapp2.0\08. Full Directory Traversal.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\obj\Debug\netcoreapp2.0\08. Full Directory Traversal.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\obj\Debug\netcoreapp2.0\08. Full Directory Traversal.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\obj\Debug\netcoreapp2.0\08. Full Directory Traversal.dll
+D:\катя\Програмиране\2.C# Fundamentals\01. C#Advanced\03.STREAMS\Streams and Files - Exercises\08. Full Directory Traversal\obj\Debug\netcoreapp2.0\08. Full Directory Traversal.pdb

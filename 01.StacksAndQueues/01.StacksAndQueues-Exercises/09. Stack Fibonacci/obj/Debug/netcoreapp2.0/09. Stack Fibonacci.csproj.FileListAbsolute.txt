@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.deps.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.runtimeconfig.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\bin\Debug\netcoreapp2.0\09. Stack Fibonacci.pdb
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues-Exercises\09. Stack Fibonacci\obj\Debug\netcoreapp2.0\09. Stack Fibonacci.pdb

@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\bin\Debug\netcoreapp2.0\03.Squares in Matrix.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\bin\Debug\netcoreapp2.0\03.Squares in Matrix.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\bin\Debug\netcoreapp2.0\03.Squares in Matrix.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\bin\Debug\netcoreapp2.0\03.Squares in Matrix.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\bin\Debug\netcoreapp2.0\03.Squares in Matrix.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\03.Squares in Matrix\obj\Debug\netcoreapp2.0\03.Squares in Matrix.pdb

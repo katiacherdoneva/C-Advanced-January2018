@@ -1,0 +1,11 @@
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.deps.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.runtimeconfig.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.runtimeconfig.dev.json
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\bin\Debug\netcoreapp2.0\05. Rubik’s Matrix.pdb
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.csprojResolveAssemblyReference.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.csproj.CoreCompileInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.AssemblyInfoInputs.cache
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.AssemblyInfo.cs
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.dll
+D:\катя\Програмиране\2.C# Fun\C#Advanced\02.Multidimensional Arrays\02. Multidimensional Arrays\02.MultidimensionalArrayEx\05. Rubik’s Matrix\obj\Debug\netcoreapp2.0\05. Rubik’s Matrix.pdb

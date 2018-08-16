@@ -1,0 +1,11 @@
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Action Point.deps.json
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Action Point.runtimeconfig.json
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Action Point.runtimeconfig.dev.json
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Action Point.dll
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\bin\Debug\netcoreapp2.0\01. Action Point.pdb
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.csprojResolveAssemblyReference.cache
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.csproj.CoreCompileInputs.cache
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.AssemblyInfoInputs.cache
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.AssemblyInfo.cs
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.dll
+c:\users\катя\source\repos\Functional Programming - Exercises\ConsoleApp1\obj\Debug\netcoreapp2.0\01. Action Point.pdb

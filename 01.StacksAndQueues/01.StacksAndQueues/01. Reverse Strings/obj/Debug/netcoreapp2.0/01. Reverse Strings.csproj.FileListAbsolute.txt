@@ -1,0 +1,11 @@
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.deps.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\bin\Debug\netcoreapp2.0\01. Reverse Strings.pdb
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csprojResolveAssemblyReference.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.dll
+C:\Users\Катя\source\repos\01.StacksAndQueues\01. Reverse Strings\obj\Debug\netcoreapp2.0\01. Reverse Strings.pdb
